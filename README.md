@@ -1,4 +1,4 @@
-# OR Generator
+# QR Generator
 
 ## Features:
 
